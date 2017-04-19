@@ -1,0 +1,2 @@
+D:\projekty\c#\phone\tracker\Tracker.Tests\Tracker.Tests.csproj;x86
+D:\projekty\c#\phone\tracker\Tracker\Tracker\Tracker.csproj;x86
